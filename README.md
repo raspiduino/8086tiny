@@ -1,3 +1,5 @@
+#### This fork of 8086tiny is just a guide for porting it to other smaller Mbed platform (like AVR,...)
+
 8086tiny
 ========
 
